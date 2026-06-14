@@ -1,5 +1,5 @@
 # TSUSB
-Helper programs for [TurtleStitch](turtlestitch.org) workshops. The 5 programs below are available or will come available.
+Helper programs for [TurtleStitch](https://turtlestitch.org) workshops. The 5 programs below are available or will come available.
 Further, there is documentation.
 ## Documentation
 The documentation folder contains a detailed descriptions of how workshops can be run and how to use the helper programs.
