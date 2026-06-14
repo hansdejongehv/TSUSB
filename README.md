@@ -10,7 +10,7 @@ It comes in three flavours:
 2. For when TurtleStitch is used with a local server
 3. For when TurtleStitch is using an off-line file
 
-Take one of these three files, copy it locally to e.g. the desktop and then use it to start TurtleStitch.  
+Take one of these three files, copy it locally to e.g. the desktop, rename it to TurtleStitch.exe and then use it to start TurtleStitch.  
 Benefits: 
 1. Have a TurtleStitch icon on the desktop that you can reference from training material regardless of how TurtleStitch is run.
 2. Record a timestamp of when TurtleStitch was started. Can be used to track how many designs were started at a certain PC.
