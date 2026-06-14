@@ -1,5 +1,5 @@
 # TSUSB
-Helper programs for TurtleStitch workshops. The 5 programs below are available or will come available.
+Helper programs for [TurtleStitch](turtlestitch.org) workshops. The 5 programs below are available or will come available.
 Further, there is documentation.
 ## Documentation
 The documentation folder contains a detailed descriptions of how workshops can be run and how to use the helper programs.
@@ -19,12 +19,15 @@ This program can be used to sequentially label a series of (generally blank) USB
 
 ## TSUSB-Export	
 This program runs on the PC where the TurtleStitch design is made. It has two functionalities:
-### Export the design to the USB stick.
+### Export the design to the USB stick
 Insert a USB stick with a volume label starting with TURTLEST and then the design (.XML) and .DST file are exported to the USB stick after a number of configurable
-checks have been done to see whether the design is OK. E.g. number of colors, size of the design, number of stitches. When the design is out of the acceptable range,
-there is a password protected opportunity to overrule the errors. In case there is already a design on the stick
+checks have been done to see whether the design is OK.  
+E.g. number of colors, size of the design, number of stitches. When the design is out of the acceptable range,
+there is a password protected opportunity to overrule the errors.  
+
+In case there is already a design on the stick
 from a previous export then the user is given the choice to continue with the previous design or to backup the old design and use the stick for the new design as if it were empty.
-2. Update files on the desktop, the documents folder or the downloads folder
+### Update files on the desktop, the documents folder or the downloads folder
 
 
 ## TSUSB-Clean
