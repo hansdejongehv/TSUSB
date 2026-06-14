@@ -11,17 +11,26 @@ It comes in three flavours:
 3. When TurtleStitch is using an off-line file
 
 Take one of these three files, copy it locally to e.g. the desktop and then use it to start TurtleStitch.  
-Benefit: 
+Benefits: 
 1. Have a TurtleStitch icon on the desktop that you can reference from training material regardless of how TurtleStitch is run.
 2. Record a timestamp of when TurtleStitch was started. Can be used to track how many designs were started at a certain PC.
 ## TSUSB-Label
 This program can be used to sequentially label a series of (generally blank) USB sticks.
 
 ## TSUSB-Export	
-This program runs on the PC where the TurtleStitch design is made to export the design to the USB stick.
+This program runs on the PC where the TurtleStitch design is made. It has two functionalities:
+### Export the design to the USB stick.
+Insert a USB stick with a volume label starting with TURTLEST and then the design (.XML) and .DST file are exported to the USB stick after a number of configurable
+checks have been done to see whether the design is OK. E.g. number of colors, size of the design, number of stitches. When the design is out of the acceptable range,
+there is a password protected opportunity to overrule the errors. In case there is already a design on the stick
+from a previous export then the user is given the choice to continue with the previous design or to backup the old design and use the stick for the new design as if it were empty.
+2. Update files on the desktop, the documents folder or the downloads folder
+
 
 ## TSUSB-Clean
-This program runs generally after a workshop on one PC to move the designs from the stick to a folder for later reference. The USB stick is emptied.
+This program runs generally after a workshop on a single PC to move the designs from the stick to a folder for later reference. The USB stick is emptied. 
+Or run it during the workshop when you run out of blank USB sticks. Inser the stick, wait for the copy to happen and remove the already ejected stick. 
+You can also annotate the file in case you want 
 
 ## TSUSB-Import
 This program is designed to copy a .DST file on a USB stick to one or more USB connected embroidery machines
