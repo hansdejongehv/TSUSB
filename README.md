@@ -6,9 +6,9 @@ The documentation folder contains a detailed descriptions of how workshops can b
 ## TSStart
 A program that will start the default browser with the TurtleStitch page opened.
 It comes in three flavours: 
-1. When TurtleStitch is used remotely, so open turtlestitch.org/run
-2. When TurtleStitch is used with a local server
-3. When TurtleStitch is using an off-line file
+1. For when TurtleStitch is used remotely, so open turtlestitch.org/run
+2. For when TurtleStitch is used with a local server
+3. For when TurtleStitch is using an off-line file
 
 Take one of these three files, copy it locally to e.g. the desktop and then use it to start TurtleStitch.  
 Benefits: 
