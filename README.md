@@ -2,13 +2,13 @@
 Helper programs for [TurtleStitch](https://turtlestitch.org) workshops. The 5 programs below are available or will come available.
 Further, there is documentation.
 ## Documentation
-The documentation folder contains a detailed descriptions of how workshops can be run and how to use the helper programs.
+The documentation folder contains a detailed descriptions of how workshops can be run and how to use the helper programs. Also how to run TurtleStitch with a local host.
 ## TSStart
 A program that will start the default browser with the TurtleStitch page opened.
 It comes in three flavours: 
-1. For when TurtleStitch is used remotely, so open turtlestitch.org/run
-2. For when TurtleStitch is used with a local server
-3. For when TurtleStitch is using an off-line file
+1. **TSStart-Remote** For when TurtleStitch is used remotely, so open turtlestitch.org/run
+2. **TSStart-LocalHost** For when TurtleStitch is used with a local host
+3. **TSStart-LocalFile** For when TurtleStitch is using a local file
 
 Take one of these three files, copy it locally to e.g. the desktop, rename it to TurtleStitch.exe and then use it to start TurtleStitch.  
 Benefits: 
