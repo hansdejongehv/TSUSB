@@ -22,19 +22,24 @@ This program runs on the PC where the TurtleStitch design is made. It has two fu
 ### Export the design to the USB stick
 Insert a USB stick with a volume label starting with TURTLEST and then the design (.XML) and .DST file are exported to the USB stick after a number of configurable
 checks have been done to see whether the design is OK.  
-E.g. number of colors, size of the design, number of stitches. When the design is out of the acceptable range,
+E.g. number of colors, size of the design, number of stitches. 
+
+When the design is out of the acceptable range,
 there is a password protected opportunity to overrule the errors.  
+
+After exporting the stick is automaticallly ejected so no need to by by haned.
 
 In case there is already a design on the stick
 from a previous export then the user is given the choice to continue with the previous design or to backup the old design and use the stick for the new design as if it were empty.
 ### Update files on the desktop, the documents folder or the downloads folder
-
+Insert a USB stick with volume label UPDATETS and files to be updated are copied from the stick to the respective locations. The stick is then ejected. 
+Benefits: when having a set of off-line PCs, it is an easy way to quickly update e.g. training material.
 
 ## TSUSB-Clean
 This program runs generally after a workshop on a single PC to move the designs from the stick to a folder for later reference. The USB stick is emptied. 
 Or run it during the workshop when you run out of blank USB sticks. Inser the stick, wait for the copy to happen and remove the already ejected stick. 
-You can also annotate the file in case you want 
+You can also annotate the design in case you want. Annotated designs are copied to a different folder in order to quickly find them back.
 
 ## TSUSB-Import
-This program is designed to copy a .DST file on a USB stick to one or more USB connected embroidery machines
+This program is designed to copy a .DST file on a USB stick to one or more USB connected embroidery machines.
 
