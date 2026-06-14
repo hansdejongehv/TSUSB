@@ -37,8 +37,9 @@ Insert a USB stick with volume label **UPDATETS** and files to be updated are co
 Benefits: when having a set of off-line PCs, it is an easy way to quickly update e.g. training material.
 
 ## TSUSB-Clean
-This program runs generally after a workshop on a single PC to move the designs from the stick to a folder for later reference. The USB stick is emptied. 
-Or run it during the workshop when you run out of blank USB sticks. Inser the stick, wait for the copy to happen and remove the already ejected stick. 
+This program runs generally after a workshop on a single PC to move the designs from the sticks to a folder for later reference. 
+The USB stick is emptied, i.e. the TurtleStitch related files are taken off. 
+You can also run it during the workshop when you run out of blank USB sticks. Insert the stick, wait for the copy to happen and remove the already ejected stick. 
 You can also annotate the design in case you want. Annotated designs are copied to a different folder in order to quickly find them back.
 
 ## TSUSB-Import
