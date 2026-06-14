@@ -21,7 +21,7 @@ This program can be used to sequentially label a series of (generally blank) USB
 ## TSUSB-Export	
 This program runs on the PC where the TurtleStitch design is made. It has two functionalities:
 ### Export the design to the USB stick
-Insert a USB stick with a volume label starting with TURTLEST and then the design (.XML) and .DST file are exported to the USB stick after a number of configurable
+Insert a USB stick with a volume label starting with **TURTLEST** and then the design (.XML) and .DST file are exported to the USB stick after a number of configurable
 checks have been done to see whether the design is OK.  
 E.g. number of colors, size of the design, number of stitches. 
 
@@ -33,7 +33,7 @@ After exporting, the stick is automaticallly ejected. That removes the need to e
 In case there is already a design on the stick
 from a previous export then the user is given the choice to continue with the previous design or to backup the old design and use the stick for the new design as if it were empty.
 ### Update files on the desktop, the documents folder or the downloads folder
-Insert a USB stick with volume label UPDATETS and files to be updated are copied from the stick to the respective locations. The stick is then ejected. 
+Insert a USB stick with volume label **UPDATETS** and files to be updated are copied from the stick to the respective locations. The stick is then ejected. 
 Benefits: when having a set of off-line PCs, it is an easy way to quickly update e.g. training material.
 
 ## TSUSB-Clean
