@@ -1,5 +1,5 @@
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
-#AutoIt3Wrapper_Icon=..\..\Artwork\Van Peter\turtlestitchlogo.ico
+#AutoIt3Wrapper_Icon=.\turtlestitchlogo.ico
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 #cs ----------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Local Const $TSLocalHost = "LocalHost"		; Browser will be started with $LocalURL
 Local Const $TSLocalFile = "LocalFile"		; Browser will be starated with the $IndexFile in the most recent subfolder in $OfflineFolder in - in this priority order - Desktop, Documents and Downloads folders
 
 ; Here you can set the flavour of the program
-Local Const $WhereIsTS = $TSRemote		; Choose which version this is. Choose from $TSRemote, $TSLocalHost and $TSLocalFile
+Local Const $WhereIsTS = $TSLocalHost		; Choose which version this is. Choose from $TSRemote, $TSLocalHost and $TSLocalFile
 
 
 Local Const $LocalHostURL = "http://localhost:8000"
